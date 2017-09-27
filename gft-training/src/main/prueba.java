@@ -1,5 +1,7 @@
 package main;
 
 public class prueba {
-	public int hola2345;
+	public int hola23659465; int hola3;
+	
+	public prueba(){}
 }
