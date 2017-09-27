@@ -1,5 +1,5 @@
 package main;
 
 public class prueba {
-	public int hola23465;
+	public int hola2365465;
 }
